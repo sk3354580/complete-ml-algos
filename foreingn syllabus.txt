@@ -1,0 +1,67 @@
+Tentative Syllabus
+
+    Week 1 – Course overview and introduction to data science and Python
+    Week 2 – Basic python programming
+    Week 3 – Introduction to Numpy
+    Week 4 – Introduction to Pandas and data-frames
+    Week 5 – Object-oriented programming and automation
+    Week 6 – Data loading, cleaning, summarization
+    Week 7 – Data aggregation and transformation
+    Week 8 – Data visualization
+    Week 9 – Review of basics statistics
+    Week 10 – Statistical and exploratory data analysis and outlier detection
+    Week 11 – Linear Algebra Review
+    Week 12 – Linear and Logistic Regression
+    Week 13 – Feature Selection
+    Week 14 – Data Ethics
+    Week 15 – Project presentations
+Tentative Syllabus
+Week 1 – Course overview: What is Machine Learning?
+
+Week 2 – Overview: Hypotheses spaces, Linear Algebra, Probability and Statistics
+
+Week 3 – Supervised Learning: Linear vs. Logistic Regression
+
+Week 4 – Decision Trees and Naive Bayes
+
+Week 5 – Model Validation: Cross-Validation, Performance Measures
+
+Diagnosing Over/Under fitting
+
+Week 6 – Feature Engineering: text, categorical data, binning
+
+Week 7 – Support Vector Machines, Nearest Neighbor, Linear Discriminant Analysis
+
+Week 8 – Bagging, Boosting and Ensemble Methods, and Random Forests
+
+Week 9 – Experiment Design, Decisions in Model Selection, Productizing Models
+
+Week 10 – Unsupervised learning: agglomerative, divisive, k-means, DBSCAN
+
+Week 11 – Dimensionality reduction and visualization in principal component analysis
+
+Week 12 – Bayesian Networks
+
+Week 13 – Introduction to Neural Networks and Deep Learning
+
+Week 14 – Introduction to Reinforcement Learning
+
+Week 15 – Final Exam/Project presentations
+
+Tentative Syllabus
+
+    Week 1 – Distributed computing overview
+    Week 2 – Hadoop File System
+    Week 3 – MapReduce Design Patterns
+    Week 4 – Data Ingest
+    Week 5 – Spark (core)
+    Week 6 – Spark (SQL)
+    Week 7 – Spark (Streaming)
+    Week 8 – Scalable Machine Learning
+    Week 9 – Apache Hive
+    Week 10 – Hbase
+    Week 11 – Yarn
+    Week 12 – Stratosphere and MonetDB
+    Week 13 – Amazon EC2 and Workflow Management
+    Week 14 – Project presentations
+
